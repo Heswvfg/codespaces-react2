@@ -31,3 +31,7 @@
 ```bash
 npm install
 npm start
+
+
+ссылка на репозиторий:
+https://github.com/Heswvfg/codespaces-react2/tree/main
