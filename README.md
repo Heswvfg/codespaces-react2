@@ -18,10 +18,13 @@
 Добавьте сюда скриншоты вашего приложения:
 
 ### 1. Главный экран
-![Скриншот главного экрана](Screenshot.png)
+![Скриншот главного экрана]
+<img width="1920" height="1080" alt="Screenshot_20251209_132304" src="https://github.com/user-attachments/assets/dae36fad-0e39-4597-89d0-0d0346602a72" />
+
 
 ### 2. Редактирование
-![Скриншот редактирования](Screenshot2.png)
+![Скриншот редактирования]
+<img width="1920" height="1080" alt="Screenshot_20251209_132336" src="https://github.com/user-attachments/assets/d3340404-9f4c-4c70-877c-3ca87e9f543f" />
 
 ## Установка
 
