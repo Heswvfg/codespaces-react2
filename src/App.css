@@ -1,31 +1,60 @@
-.App {
-  text-align: center;
+.app {
+  padding: 20px;
+  max-width: 400px;
+  margin: auto;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.form {
   display: flex;
-  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.form input {
+  flex: 1;
+  padding: 5px;
+}
+
+.form button {
+  padding: 5px 10px;
+}
+
+.song {
+  display: flex;
+  justify-content: space-between;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  padding: 10px;
+  border: 1px solid #ccc;
+  margin-bottom: 5px;
 }
 
-.App-link {
-  color: #61dafb;
+.title {
+  font-weight: bold;
 }
 
-.heart {
-  color: #ff0000;
+.artist {
+  color: #666;
 }
 
-.small {
-  font-size: 0.75rem;
+.buttons {
+  display: flex;
+  gap: 5px;
+}
+
+.edit {
+  display: flex;
+  gap: 5px;
+  width: 100%;
+}
+
+.edit input {
+  flex: 1;
+  padding: 3px;
+}
+
+button {
+  padding: 3px 6px;
+  border: 1px solid #ccc;
+  background: white;
+  cursor: pointer;
 }
